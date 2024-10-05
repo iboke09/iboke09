@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @iboke09
+- 👀 I’m interested in web development, SAP solutions, football, and programming.
+- 🌱 I’m currently learning SAP UI5 Fiori and improving my football skills.
+- 💞️ I’m looking to collaborate on web design projects, UI/UX, and SAP solutions.
+- 📫 How to reach me: fazexxibrahim@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once scored 3 bicycle kicks in a single match!
